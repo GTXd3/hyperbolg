@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## La vida es hermosa
 Ciudadanos de cinto, reto formalmente a david a una pelea de musica
 
@@ -14,3 +15,7 @@ tuuu
 tuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 *
 al final termino ganado david :c
+=======
+# hyperbolg
+Unblog increible para aprender Git y Git Hub suuu
+>>>>>>> 4511fb6f39f211ffa2f9b9ad06f0a1b69bf97ee5
